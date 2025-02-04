@@ -1,16 +1,16 @@
-# Datenschutzerklärung / Einwilligungserklärung für das Forschungsprojekt “Produktivität von KI-Tools in der SW-Entwicklung“
+# Datenschutzerklärung / Einwilligungserklärung für das Forschungsprojekt “Produktivität von KI-Tools in der Software-Entwicklung“
 
 1. Zweck und datenerhebende Stelle  
-   Im Rahmen des Forschungsprojekts „Produktivität von KI-Tools in der SW-Entwicklung“ soll untersucht werden, wie und wofür professionelle Entwickler\*innen LLM-basierte Tools verwenden, welche Auswirkungen diese auf Zufriedenheit, Produktivität, Aufgaben und Arbeitsalltag haben und wie sich diese Einflüsse im Verlauf der Einführung verändern. Zudem werden Korrelationen zwischen Nutzungseffekten, Persönlichkeitsmerkmalen, Erwartungen sowie Softwarekomplexitätsmetriken analysiert.
+   Im Rahmen des Forschungsprojekts „Produktivität von KI-Tools in der Software-Entwicklung“ soll untersucht werden, wie und wofür professionelle Entwickler\*innen LLM-basierte Tools verwenden, welche Auswirkungen diese auf Zufriedenheit, Produktivität, Aufgaben und Arbeitsalltag haben und wie sich diese Einflüsse im Verlauf der Einführung verändern. Zudem werden Korrelationen zwischen Nutzungseffekten, Persönlichkeitsmerkmalen, Erwartungen sowie Softwarekomplexitätsmetriken analysiert.
 
    Alleinig für vorgenannten Forschungszweck sollen personenbezogene Daten durch die Universität Leipzig, Fakultät Mathe und Informatik, Lehrstuhl für Softwaresysteme, Prof. Norbert Siegmund verarbeitet werden (Verarbeitung im Sinne von Erhebung, Speicherung, Veränderung und Nutzung). Hierzu ist eine freiwillige und informierte Einwilligung erforderlich. Die Daten werden ausschließlich für die Analyse genutzt und nicht an Ihren Arbeitgeber weitergegeben. Die Ergebnisse der Forschungsarbeit werden anonymisiert, sodass keine Rückschlüsse auf Einzelpersonen möglich sind. 
 
 2. Datenverarbeitung  
    Die Einwilligungserklärung umfasst die Verarbeitung folgender personenbezogener Daten:
 
-   1. Git Username / Teamzugehörigkeit von Probanden zur Erkennung von Korrelationen zwischen Angaben und Veränderungen auf Code-Ebene  
-   2. Antworten von Probanden auf Fragebögen im Laufe der Studie (Initialfragebogen “Zur Verwendung von KI-Tools”, wiederkehrender Fragebogen “Zur Arbeit mit KI-Tools”, Abschlussfragebogen “Fazit: Die Arbeit mit KI-Tools”)  
-   3. Schriftliche Beobachtungen der Probanden im Rahmen von Observationen im Arbeitsalltag  
+   1. Studien-ID / Git Username / Teamzugehörigkeit von Probanden zur Erkennung von Korrelationen zwischen Angaben und Veränderungen auf Code-Ebene.  
+   2. Antworten von Probanden auf Fragebögen im Laufe der Studie (Initialfragebogen “Zur Verwendung von KI-Tools”, wiederkehrender Fragebogen “Zur Arbeit mit KI-Tools”, Abschlussfragebogen “Fazit: Die Arbeit mit KI-Tools”).  
+   3. Schriftliche Beobachtungen der Probanden im Rahmen von Observationen im Arbeitsalltag.  
    4. Tonaufnahme der Probanden während Interviews.
 
 3. Anonymität  
